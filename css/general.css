@@ -1,0 +1,37 @@
+body{
+  background-color:rgb(18, 18, 18);      
+
+
+}
+
+
+.highlights{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 24px;
+}
+
+.quotes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, cursive;
+  color: white;
+  margin: 0;
+  font-size: 50px;
+  
+}
+
+.quotes-2{
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+  color:white;
+  margin: 0;
+  font-size: 50px;
+}

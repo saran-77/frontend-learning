@@ -1,0 +1,93 @@
+
+        .uber {
+          background-color: black;
+          color: white;
+          border: none;
+          height: 30px ;
+          width: 105px;
+          cursor: pointer;
+          transition: 0.15s;
+          
+
+        }
+
+        .uber:hover {
+
+         opacity: 0.8;
+          
+
+        }
+
+        .amazon {
+          background-color: rgb(256, 216, 20) ;
+          color: black;
+          border: none;
+          border-radius: 10px;
+          height : 26px;
+          width: 120px;
+          cursor: pointer;
+          transition: 0.15s;
+
+        }
+
+        .amazon:hover{
+          background-color: rgb(245, 216, 20) ;
+        }
+
+        .github{
+          background-color: rgb(46,164,79);
+          color: white;
+          height: 30px;;
+          width: 75px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          transition: 0.15s;
+        }
+
+        .github:hover {
+          box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+          }
+
+        .bootstrap{
+          background-color: rgb(121,82,179);
+          color: white;
+          height: 26px;;
+          width: 100px;
+          border: none;
+          border-radius: 3px;
+          border-width: 1px;
+          border-style: solid;
+          cursor: pointer;
+          transition: 0.15s;
+
+
+        }
+
+        .bootstrap:hover{
+          background-color: white;
+           color: rgb(121,82,179);
+           
+
+
+        }
+
+        .linkedin {
+          background-color: rgb(10, 102, 194) ;
+          color:white;
+          border: none;
+          border-radius: 15px;
+          height : 30px;
+          width: 200px;
+          cursor: pointer;
+          border-width: 1px;
+          border-style: solid;
+          transition: 0.15s;
+
+        }
+        .linkedin:hover{
+          background-color:rgb(5, 71, 137) ;
+          border-width: 1px;
+        }
+
+  

@@ -1,0 +1,18 @@
+
+      .redbull{
+        width: 150px;
+        height: 150px;
+        border-radius: 100% ;
+        object-fit: cover;
+      }
+
+      .redbull2{
+        width: 200px ;
+        height: 200px;
+        object-fit: contain;
+        object-position: center;
+        border-style: solid;
+        border-color: red;
+        
+      }
+    

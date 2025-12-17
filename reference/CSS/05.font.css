@@ -1,0 +1,41 @@
+ 
+      p{
+        text-align: center;
+        font-family: arial;
+        margin-top: 0;
+        margin-bottom: 0px;
+      }
+
+      .new{
+        color: orange;
+        margin-bottom: 10px;
+      }
+
+      .product{
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 15px;
+      }
+
+      .tag{
+        font-size: 42px;
+        font-weight: bold;
+        margin-bottom: 15px;
+       
+      }
+      .price{
+        margin-bottom: 15px;
+      }
+
+     .buy {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+     }

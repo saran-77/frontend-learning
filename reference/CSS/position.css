@@ -1,0 +1,30 @@
+.div1{
+  background-color: lightblue;
+  height: 200px;
+  width: 200px;
+  position: static;
+}
+
+.div2{
+  background-color: lightpink;
+  height: 200px;
+  width: 200px;
+}
+
+.header{
+  background-color: black;
+  color:white;
+  position: fixed;
+  top: 10px;
+  left: 20px;
+}
+
+body{
+  height: 3000px;
+}
+
+.sidebar{
+  background-color: green;
+  color: white;
+  position: fixed;
+}

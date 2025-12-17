@@ -1,0 +1,70 @@
+.highlight-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+}
+
+
+.highlight-box-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 2750px;
+  transition: 0.9s ease-out;
+  margin-right: 12px;
+}
+
+
+.highlight-content-1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+    font-size: 24px;
+  font-family: serif;
+}
+
+
+.highlight-box-1:hover .picture {
+  height: 300px;
+  width: 300px;
+  
+}
+
+.highlight-box-1:hover .picture2 {
+  height: 300px;
+  width: 300px;
+  
+}
+
+
+.picture{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 275px;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: 0.9s ease-out;
+  position: relative;
+  z-index: 100;
+}
+
+
+.picture2{
+    height: 250px;
+  width: 275px;
+  object-fit: cover;
+  object-position: center bottom;
+  border-radius: 4px;
+  transition: 0.9s ease-out;
+  
+}
+
+
+
+

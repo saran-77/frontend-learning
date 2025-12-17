@@ -1,0 +1,63 @@
+.divbox1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.box-1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid;
+   border: 2px solid rgb(0, 240, 240 ); /* Base neon color */
+  box-shadow: 
+    0 0 5px rgb(0, 240, 240 ),
+    0 0 10px rgb(0, 240, 240 ),
+    0 0 20px rgb(0, 240, 240 ),
+    0 0 40px rgb(0, 240, 240 );
+  border-width: 5px;
+  border-radius: 20px;
+  height: 300px;
+  width: 1000px;
+  transition: 0.45s ease-in-out;
+
+}
+
+.box-1:hover{
+    border: solid;
+   border: 2px solid rgb(0, 255,255); /* Base neon color */
+  box-shadow: 
+    0 0 5px rgb(0, 240, 240 ),
+    0 0 10px rgb(0, 240, 240 ),
+    0 0 20px rgb(0, 240, 240 ),
+    0 0 40px rgb(0, 240, 240 );
+  border-width: 5px;
+  border-radius: 20px;
+  height: 310px;
+  width: 1010px;
+}
+
+.ham-content-1{
+  color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: arial;
+  font-size: 24px;
+}
+
+.ham-1{
+  height: 130%;
+  object-fit: contain;
+}
+
+
+
+.ham-2{
+  height: 320%;
+  object-fit: contain;
+}
+
+
+
+
