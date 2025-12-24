@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="userfinder.css">
+  <title>userfinder</title>
+</head>
+<body>
+  
+
+  <div class="container">
+    <h2 class="title">GitHub User Finder</h2>
+    <div class="search">
+      <input type="text" placeholder="enter the username" id="searchBox">
+      <button id="searchButton">search</button>
+    </div>
+    <div class="error">
+      invalid username
+    </div>
+    <div class="info">
+      <img src="" alt="userprofile" id="userProfile">
+      <h1 id="userName">user</h1>
+    </div>
+      <div class="stats">
+        <p class="bio">created at:<span id="accInfo"></span></p>
+        <p class="followers"> followers: <span id="followers">0</span></p>
+        <p class="following">following: <span id="following">0 </span></p>
+        <p class="rep"> number of  repositories: <span id="rep">0</span></p>
+      </div>
+  </div>
+
+
+  <script src="userfinder.js">
+  </script>
+</body>
+</html>
